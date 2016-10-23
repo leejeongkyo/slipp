@@ -5,11 +5,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>SLiPP</title>
 
-<%@ include file="../commons/header.jspf" %>
+<%@ include file="../commons/_header.jspf" %>
 
 </head>
 <body>
-<%@ include file="../commons/top.jspf" %>
+<%@ include file="../commons/_top.jspf" %>
     
 	<header class="jumbotron subhead" id="overview">
 	<div class="container">
@@ -17,7 +17,9 @@
 		<p class="lead">Sustaninable Life, Programming, Programmer</p>
 	</div>
 	</header>     
-
+	<div class="container">
+			메인페이지
+	</div>
 </body>
 </html>
 
