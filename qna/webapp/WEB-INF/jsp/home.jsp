@@ -17,8 +17,12 @@
 		<p class="lead">Sustaninable Life, Programming, Programmer</p>
 	</div>
 	</header>     
-	<div class="container">
-			메인페이지
+		<div class="container">
+			<div class="container-fluid">
+				<div class="span6">
+					<h1>메인페이지</h1>
+				</div>
+			</div>
 	</div>
 </body>
 </html>
