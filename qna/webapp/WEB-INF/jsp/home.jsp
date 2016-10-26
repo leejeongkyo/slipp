@@ -10,7 +10,7 @@
 
 </head>
 <body>
-<!-- 탑부분 -->
+<!-- 탑부분1 -->
 <%@ include file="../commons/_top.jspf" %>
     
 	<header class="jumbotron subhead" id="overview">
